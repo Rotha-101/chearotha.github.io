@@ -13,8 +13,8 @@ title                    : "Chea Rotha | Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Chea Rotha"
 description              : &description "Academic website and portfolio of Chea Rotha. Including publications, research interests, and curriculum vitae."
-url                      : "https://rotha-101.github.io"
-baseurl                  : "/chearotha.github.io" # the subpath of your site, e.g. "/blog"
+url: "https://rotha-101.github.io"
+baseurl: "/chearotha.github.io"
 repository               : "Rotha-101/chearotha.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
