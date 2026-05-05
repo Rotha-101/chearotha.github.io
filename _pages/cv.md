@@ -11,35 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in [Your Subject], [University Name], 2026 (expected)
-* M.S. in [Your Subject], [University Name], 2022
-* B.S. in [Your Subject], [University Name], 2020
+* **Engineering Degree in Data Science**, Institute of Technology of Cambodia (ITC), 2020 – 2025
+  * Major in Applied Mathematics and Statistics
+  * Thesis: Analysis and Forecasting of Inflation in Cambodia
+* **English & French (Basic)**, Aii Language Center, 2019 – 2022
 
-Work experience
+Professional Experience
 ======
-* 2024 - Present: [Your Current Role]
-  * [Organization Name]
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Battery Energy Storage System Engineer, Data Analysis**, Dec 2025 – Present
+  * SchniecTech Group
+  * Analyzed high-frequency time-series data from EMS / SCADA systems.
+  * Built interactive dashboards for real-time monitoring of grid and plant performance.
+  * Conducted anomaly detection for power fluctuations and system faults.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Data Scientist**, Feb 2025 – Oct 2025
+  * Ministry of Planning, Cambodia
+  * Developed a hybrid inflation forecasting model (XGBoost + LSTM + SARIMAX).
+  * Built data pipelines for macroeconomic indicators.
+  * Created interactive dashboards to support policy-making and economic planning.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Instructor – Data Science**, Jan 2024 – Feb 2025
+  * Sunrise Institute
+  * Taught ML, forecasting, and data visualization with practical Python and Power BI projects.
+  * Mentored students on data storytelling and presentation.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming**: Python, SQL, React JS, Matlab, R, Java, C#
+* **Machine Learning**: Scikit-learn, TensorFlow, Keras, XGBoost, LightGBM
+* **Time Series**: ARIMA, SARIMA, LSTM, Prophet
+* **Data Viz**: Matplotlib, Seaborn, Plotly, Tableau, Power BI
+* **NLP**: Transformers, NLTK, SpaCy, LoRA Fine-Tuning
+* **Databases**: MySQL, PostgreSQL, SQLite, MongoDB
 
 Publications
 ======
@@ -59,6 +62,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+References
 ======
-* Currently signed in to 43 different slack teams
+* **PHAUK Sokkhey, Ph.D**
+  * Deputy head of department of applied mathematics and statistics (AMS), ITC
+  * Email: phauk.sokkhey@itc.edu.kh
+* **Mr. Pakrina Long**
+  * IT Lecturer in DATA Science, ITC
+  * Email: long.pakrigna@itc.edu.kh
